@@ -75,31 +75,31 @@ Firebase (Authentication + Firestore)
 com.example.jobtracker
 ├── data
 │   ├── model
-│   │   ├── JobApplication
-│   │   └── Note
+│   │   ├── JobApplication.kt
+│   │   └── Note.kt
 │   └── repository
-│       ├── AuthRepository
-│       ├── JobRepository
-│       └── NoteRepository
+│       ├── AuthRepository.kt
+│       ├── JobRepository.kt
+│       └── NoteRepository.kt
 │
 ├── ui
 │   ├── screens
-│   │   ├── LoginScreen
-│   │   ├── HomeScreen
-│   │   ├── AddJobScreen
-│   │   ├── EditJobScreen
-│   │   └── NotesScreen
+│   │   ├── LoginScreen.kt
+│   │   ├── HomeScreen.kt
+│   │   ├── AddJobScreen.kt
+│   │   ├── EditJobScreen.kt
+│   │   └── NotesScreen.kt
 │   ├── navigation
-│   │   ├── NavGraph
-│   │   └── Routes
+│   │   ├── NavGraph.kt
+│   │   └── Routes.kt
 │   └── components
 │
 ├── viewmodel
-│   ├── AuthViewModel
-│   ├── JobViewModel
-│   └── NoteViewModel
+│   ├── AuthViewModel.kt
+│   ├── JobViewModel.kt
+│   └── NoteViewModel.kt
 │
-└── MainActivity
+└── MainActivity.kt
 
 ---
 
