@@ -73,35 +73,33 @@ Firebase (Authentication + Firestore)
 ## Project Structure
 
 com.example.jobtracker
-│
 ├── data
-│ ├── model
-│ │ ├── JobApplication
-│ │ └── Note
-│ └── repository
-│ ├── AuthRepository
-│ ├── JobRepository
-│ └── NoteRepository
+│   ├── model
+│   │   ├── JobApplication
+│   │   └── Note
+│   └── repository
+│       ├── AuthRepository
+│       ├── JobRepository
+│       └── NoteRepository
 │
 ├── ui
-│ ├── screens
-│ │ ├── LoginScreen
-│ │ ├── HomeScreen
-│ │ ├── AddJobScreen
-│ │ ├── EditJobScreen
-│ │ └── NotesScreen
-│ ├── navigation
-│ │ ├── NavGraph
-│ │ └── Routes
-│ └── components
+│   ├── screens
+│   │   ├── LoginScreen
+│   │   ├── HomeScreen
+│   │   ├── AddJobScreen
+│   │   ├── EditJobScreen
+│   │   └── NotesScreen
+│   ├── navigation
+│   │   ├── NavGraph
+│   │   └── Routes
+│   └── components
 │
 ├── viewmodel
-│ ├── AuthViewModel
-│ ├── JobViewModel
-│ └── NoteViewModel
+│   ├── AuthViewModel
+│   ├── JobViewModel
+│   └── NoteViewModel
 │
 └── MainActivity
-
 
 ---
 
