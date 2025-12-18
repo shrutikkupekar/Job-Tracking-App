@@ -72,6 +72,7 @@ Firebase (Authentication + Firestore)
 
 ## Project Structure
 
+<pre>
 com.example.jobtracker
 ├── data
 │   ├── model
@@ -81,7 +82,7 @@ com.example.jobtracker
 │       ├── AuthRepository.kt
 │       ├── JobRepository.kt
 │       └── NoteRepository.kt
-│
+
 ├── ui
 │   ├── screens
 │   │   ├── LoginScreen.kt
@@ -93,13 +94,15 @@ com.example.jobtracker
 │   │   ├── NavGraph.kt
 │   │   └── Routes.kt
 │   └── components
-│
+
 ├── viewmodel
 │   ├── AuthViewModel.kt
 │   ├── JobViewModel.kt
 │   └── NoteViewModel.kt
-│
+
 └── MainActivity.kt
+</pre>
+
 
 ---
 
