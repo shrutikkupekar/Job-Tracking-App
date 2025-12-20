@@ -179,9 +179,9 @@ All project requirements have been fully implemented.
 
 ---
 
-## Authors
+## Authors and CWID
 
-- Shrutik Kupekar
-- Janya Jaiswal
-- Indrayani Bhosale
-- Suyash Jadhav
+- Shrutik Kupekar : 884426727
+- Janya Jaiswal : 878062934
+- Indrayani Bhosale : 842614851
+- Suyash Jadhav : 880760830
